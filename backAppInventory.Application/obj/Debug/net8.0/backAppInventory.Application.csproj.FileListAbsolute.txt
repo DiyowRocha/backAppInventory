@@ -1,0 +1,17 @@
+C:\Projetos\backAppInventory\backAppInventory.Application\bin\Debug\net8.0\backAppInventory.Application.deps.json
+C:\Projetos\backAppInventory\backAppInventory.Application\bin\Debug\net8.0\backAppInventory.Application.dll
+C:\Projetos\backAppInventory\backAppInventory.Application\bin\Debug\net8.0\backAppInventory.Application.pdb
+C:\Projetos\backAppInventory\backAppInventory.Application\bin\Debug\net8.0\backAppInventory.Domain.dll
+C:\Projetos\backAppInventory\backAppInventory.Application\bin\Debug\net8.0\backAppInventory.Infrastructure.dll
+C:\Projetos\backAppInventory\backAppInventory.Application\bin\Debug\net8.0\backAppInventory.Domain.pdb
+C:\Projetos\backAppInventory\backAppInventory.Application\bin\Debug\net8.0\backAppInventory.Infrastructure.pdb
+C:\Projetos\backAppInventory\backAppInventory.Application\obj\Debug\net8.0\backAppInventory.Application.csproj.AssemblyReference.cache
+C:\Projetos\backAppInventory\backAppInventory.Application\obj\Debug\net8.0\backAppInventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\backAppInventory\backAppInventory.Application\obj\Debug\net8.0\backAppInventory.Application.AssemblyInfoInputs.cache
+C:\Projetos\backAppInventory\backAppInventory.Application\obj\Debug\net8.0\backAppInventory.Application.AssemblyInfo.cs
+C:\Projetos\backAppInventory\backAppInventory.Application\obj\Debug\net8.0\backAppInventory.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\backAppInventory\backAppInventory.Application\obj\Debug\net8.0\backAppI.B3B331EE.Up2Date
+C:\Projetos\backAppInventory\backAppInventory.Application\obj\Debug\net8.0\backAppInventory.Application.dll
+C:\Projetos\backAppInventory\backAppInventory.Application\obj\Debug\net8.0\refint\backAppInventory.Application.dll
+C:\Projetos\backAppInventory\backAppInventory.Application\obj\Debug\net8.0\backAppInventory.Application.pdb
+C:\Projetos\backAppInventory\backAppInventory.Application\obj\Debug\net8.0\ref\backAppInventory.Application.dll

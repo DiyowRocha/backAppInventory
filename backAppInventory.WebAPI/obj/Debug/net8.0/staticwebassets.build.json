@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "snf3Ma/qSu9gH1VMidmc8zqG/Dx8nlx+qzOdLVw8S4k=",
+  "Source": "backAppInventory.WebAPI",
+  "BasePath": "_content/backAppInventory.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

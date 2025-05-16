@@ -1,0 +1,17 @@
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\bin\Debug\net8.0\backAppInventory.Infrastructure.deps.json
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\bin\Debug\net8.0\backAppInventory.Infrastructure.runtimeconfig.json
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\bin\Debug\net8.0\backAppInventory.Infrastructure.dll
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\bin\Debug\net8.0\backAppInventory.Infrastructure.pdb
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\bin\Debug\net8.0\backAppInventory.Domain.dll
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\bin\Debug\net8.0\backAppInventory.Domain.pdb
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\obj\Debug\net8.0\backAppInventory.Infrastructure.csproj.AssemblyReference.cache
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\obj\Debug\net8.0\backAppInventory.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\obj\Debug\net8.0\backAppInventory.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\obj\Debug\net8.0\backAppInventory.Infrastructure.AssemblyInfo.cs
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\obj\Debug\net8.0\backAppInventory.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\obj\Debug\net8.0\backAppI.4CD49198.Up2Date
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\obj\Debug\net8.0\backAppInventory.Infrastructure.dll
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\obj\Debug\net8.0\refint\backAppInventory.Infrastructure.dll
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\obj\Debug\net8.0\backAppInventory.Infrastructure.pdb
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\obj\Debug\net8.0\backAppInventory.Infrastructure.genruntimeconfig.cache
+C:\Projetos\backAppInventory\backAppInventory.Infrastructure\obj\Debug\net8.0\ref\backAppInventory.Infrastructure.dll
